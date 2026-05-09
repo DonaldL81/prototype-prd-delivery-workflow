@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype PRD Delivery Workflow"
+  short_description: "PRD workflow for prototypes and delivery"
+  default_prompt: "Use $prototype-prd-delivery-workflow to initialize docs, confirm planning, and keep PRD updated."
